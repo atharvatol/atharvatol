@@ -1,3 +1,3 @@
 This is my first Git repository.
 <br>
-Author - Atharva Tol
+Author - Atharva Tol(beginner)
